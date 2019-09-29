@@ -124,4 +124,5 @@ public int groupsOfStudents(int[] studentIds) {
 	return count;
 	
 }
+}
 
