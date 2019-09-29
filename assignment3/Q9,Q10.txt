@@ -1,0 +1,10 @@
+Q9. Explain Encapsulation with an example. (Write at least 30-40 words).
+
+Encapsulation in Java is a mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.For example, if the data members are privatem,they cannot be accessed directly. These fields can be accessed via public methods only. 
+
+
+
+
+Q10. What is the difference between Encapsulation and Abstract.
+
+Abstraction is about hiding unwanted details while giving out most essential details, while Encapsulation means hiding the code and data into a single unit 
