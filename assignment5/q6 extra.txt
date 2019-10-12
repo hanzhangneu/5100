@@ -1,0 +1,2 @@
+it answer is 6 and final println is 3+3;
+b.getAddCount()=3 and b.getI()=3

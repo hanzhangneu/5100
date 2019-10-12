@@ -1,0 +1,5 @@
+Explain the difference between final and finally in Java 8
+
+Final class can't be inherited, final method can't be overridden and final variable value can't be changed. 
+Finally is used to place important code, it will be executed whether exception is handled or not. Finalize 
+is used to perform clean up processing just before object is garbage collected
